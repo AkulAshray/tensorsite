@@ -59,6 +59,9 @@ params:
       height: 40
     width: wide
 
+  favicon:
+    svg: /images/mid_teal.svg
+
   page:
     width: normal
 
