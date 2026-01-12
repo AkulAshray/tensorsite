@@ -29,13 +29,13 @@ We aim to make AI less magical and more measurable: clear problem statements, cl
 <div class="tt-team-grid">
   <div class="tt-team-card">
     <h3><a href="https://uk.linkedin.com/in/ashray-shetty-2744a6147" target="_blank" rel="noopener noreferrer">Ashray Shetty</a></h3>
-    <p><strong>Education & Applied AI (Co-founder)</strong></p>
+    <p><strong>Education & Applied AI</strong></p>
     <p>Ashray’s background spans neuroscience and translational medicine, followed by years designing and delivering data education programmes for working professionals. He focuses on building practical training, turning complex AI topics into usable workflows, and helping organisations adopt GenAI in a way that’s safe, transparent, and aligned with real operational needs.</p>
   </div>
 
   <div class="tt-team-card">
     <h3>Prak Shetty</h3>
-    <p><strong>AI/ML Research & Healthcare Systems (Co-founder)</strong></p>
-    <p>Prak is an AI/ML researcher and educator working at the intersection of generative AI, digital healthcare, and recommendation systems. Their experience includes building proof-of-concepts for AI systems using RAG pipelines, hybrid ranking approaches, and strong prompt engineering practices—alongside hands-on delivery in healthcare technology environments and stakeholder-facing work with NHS contexts.</p>
+    <p><strong>AI/ML Research & Healthcare Systems</strong></p>
+    <p>Prak is an AI/ML researcher and educator working at the intersection of generative AI, digital healthcare, and recommendation systems. He has experience with building proof-of-concepts for AI systems using RAG pipelines, hybrid ranking approaches, and strong prompt engineering practices—alongside hands-on delivery in healthcare technology environments and stakeholder-facing work within NHS.</p>
   </div>
 </div>
