@@ -1,0 +1,71 @@
+baseURL: thinkingtensors.com
+languageCode: en-gb
+title: Thinking Tensors
+
+outputs:
+  home: [html]
+  page: [html]
+  section: [html]
+
+defaultContentLanguage: en
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.146.0"
+
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  highlight:
+    noClasses: false
+  goldmark:
+    renderer:
+      unsafe: true
+    extensions:
+      passthrough:
+        delimiters:
+          block: [['\[', '\]'], ['$$', '$$']]
+          inline: [['\(', '\)']]
+        enable: true
+
+enableInlineShortcodes: true
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      pageRef: /about
+      weight: 1
+    - name: Search
+      weight: 2
+      params:
+        type: search
+
+params:
+  description: "Thinking Tensors helps healthcare and life sciences teams adopt GenAI safely and transparently through interpretability-led training, governance support, and practical workflow prototypes."
+  images:
+    - images/logo_full.png
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/mid_teal.svg
+      dark: images/dark_logo.svg
+      width: 40
+      height: 40
+    width: wide
+
+  page:
+    width: normal
+
+  theme:
+    default: system
+    displayToggle: true
+    
+  footer:
+    enable: true
+    displayCopyright: true
+    displayPoweredBy: false
+    width: normal
