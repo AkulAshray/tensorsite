@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: "https://www.thinkingtensors.com"
 relativeURLs: true
 canonifyURLs: false
 languageCode: en-gb
