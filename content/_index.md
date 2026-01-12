@@ -29,7 +29,7 @@ layout: hextra-home
 
 <div class="hx:mb-6">
 {{< hextra/feature-card
-    title="Real World GenAI needs rigour"
+    title="Real world GenAI needs rigour"
     subtitle="LLMs can unlock speed and creativity—but they also introduce new risks: hallucinations, privacy leakage, bias, unclear decision paths, and fast-moving model behaviour. Regulation is tightening, and internal governance often lags behind. Thinking Tensors bridges the gap between what GenAI can do and what is safe to deploy—so teams can move forward with confidence."
     style="background: radial-gradient(ellipse at 50% 80%,rgba(33, 201, 231, 0.15),hsla(0,0%,100%,0));"
 >}}
