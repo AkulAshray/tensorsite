@@ -1,4 +1,6 @@
-baseURL: thinkingtensors.com
+baseURL: "/"
+relativeURLs: true
+canonifyURLs: false
 languageCode: en-gb
 title: Thinking Tensors
 
